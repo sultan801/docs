@@ -2,7 +2,7 @@
 title: Configuring the self-hosted runner application as a service
 intro: You can configure the self-hosted runner application as a service to automatically start the runner application when the machine starts.
 redirect_from:
-  - /actions/automating-your-workflow-with-github-actions/configuring-the-self-hosted-runner-application-as-a-service
+  - /actions and/automating-your-workflow-with-github-actions/configuring-the-self-hosted-runner-application-as-a-service
 versions:
   free-pro-team: '*'
   enterprise-server: '>=2.22'
